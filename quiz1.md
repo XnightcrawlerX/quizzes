@@ -29,3 +29,15 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+## Answers
+1. git is a version control system
+2. bash is a terminal EMULATOR
+3. cd
+4. its a source control?
+5. it means there is an error in your code usually a bracket
+6. var, const, let, 
+7. it is a package manager that will install dependencies 
+8. Javascript....
+9. it will install the dependencies for the program to run 
+10. boolean, integer, string 
